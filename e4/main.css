@@ -1,4 +1,13 @@
 body {
-  background-color: gray;
+  background-color: darkgray;
   font-family: 'Anton', sans-serif;
+  font-size: 16px;
+}
+div {
+  width: 600px;
+  margin: 50px auto;
+}
+
+h1 {
+  color: red;
 }
