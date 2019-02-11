@@ -1,13 +1,24 @@
 body {
-  background-color: darkgray;
-  font-family: 'Anton', sans-serif;
+  background-color: #212F3C;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  color: white;
 }
 div {
   width: 600px;
   margin: 50px auto;
 }
-
 h1 {
-  color: red;
+  color: #FFC300;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 60px;
+  margin: 25px auto;
+  text-align: center;
+}
+p {
+  text-indent: 25px;
+}
+h2{
+  color: #FF5733;
+  text-decoration: underline;
 }
