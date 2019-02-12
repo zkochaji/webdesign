@@ -10,7 +10,9 @@ a:visited {
   color: white;
 }
 div{
-  width: 400px;
-  margin: 50px  auto;
+  margin: auto;
   text-align: center;
+}
+p {
+  margin: 40px; 
 }
