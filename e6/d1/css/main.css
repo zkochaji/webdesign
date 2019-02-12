@@ -1,0 +1,24 @@
+body {
+  background-color: lightgrey;
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -25px;
+  opacity: .5;
+  border-style: dashed;
+
+}
+.orange {
+  background-color: orange;
+  border-radius: 20px;
+}
+.purple {
+  background-color: purple;
+  border-radius: 20px;
+}
