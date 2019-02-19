@@ -1,0 +1,40 @@
+body {
+  background-color: grey;
+  margin: 25px;
+  padding: 75px;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -25px;
+  opacity: .5;
+  border-style: groove;
+  border-radius: 25%;
+}
+.one {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  border-radius: 100%;
+  margin: -50px;
+  opacity: .25;
+  float: left;
+}
+.two {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 25%;
+  margin: -50px;
+  opacity: .25;
+}
+.three {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 100%;
+  margin: -50px;
+  opacity: .25;
+}

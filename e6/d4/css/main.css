@@ -1,0 +1,55 @@
+body {
+  background-color: #FF00B7;
+  margin: 25px;
+  padding: 75px;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background-color: #2CFF00;
+  float: left;
+  margin: -5px;
+  opacity: 100%;
+  border-style: dashed;
+  border-radius: 25%;
+}
+.one {
+  width: 100px;
+  height: 100px;
+  background-color: #002DFF;
+  border-radius: 100%;
+  margin: -5px;
+  opacity: 100%;
+  float: left;
+  border-style: double;
+  border-width: thick;
+}
+.two {
+  width: 100px;
+  height: 100px;
+  background-color: #FFEC00;
+  border-radius: 25%;
+  margin: -5px;
+  opacity: 100%;
+  border-style: dashed;
+}
+.three {
+  width: 100px;
+  height: 100px;
+  background-color: #FF0400;
+  border-radius: 100%;
+  margin: -5px;
+  opacity: 100%;
+  border-style: double;
+  border-width: thick;
+}
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: #FF7A00;
+  border-radius: 100%;
+  margin: -5px;
+  opacity: 100%;
+  border-style: double;
+  border-width: thick;
+}
