@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 5px;
+}
+body {
+  margin: 5px;
+}
+div {
+  float:left;
+}
+.board {
+  width: 700px;
+}
+.long {
+  width: 600px;
+  height: 100px;
+  background-color: red;
+}
+.long1 {
+  width: 600px;
+  height: 25px;
+  background-color: red;
+}
+.tall {
+  width: 200px;
+  height: 500px;
+  background-color: red;
+}
