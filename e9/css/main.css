@@ -1,22 +1,18 @@
-* {
-  box-sizing: border-box;
+body{
+  background-color: #212F3C;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
 }
-body {
-  margin: 0;
+a:link {
+  color: white;
 }
-div {
-  float:left
+a:visited {
+  color: white;
 }
-.red {
-  background-color: red;
-  width: 100px;
-  height: 100px;
+div{
+  margin: auto;
+  text-align: center;
 }
-.black {
-  background-color: black;
-  width: 100px;
-  height: 100px;
-}
-.board {
-  width: 800px;
+p {
+  margin: 40px;
 }
