@@ -16,10 +16,9 @@ a:hover {
   color: red;
 }
 div{
-  margin: auto;
   text-align: center;
   color: white;
-}
+  }
 h2 {
   font-size: 30px;
   color: white;
@@ -28,60 +27,59 @@ h2 {
   background-color: #212F3C;
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
-  margin: auto;
   text-align: center;
   padding: 10px;
   margin: 175px 50px 50px 50px;
 }
 .p1 {
-  font-size: 25px;
+  font-size: 2vw;
   padding: 75px;
-  margin: 150px
+  margin: 150px;
 }
 .p2 {
-  font-size: 25px;
+  font-size: 2vw;
   padding: 50px;
   margin: 150px;
 }
 .p3 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 200px;
   padding: 30px;
 }
 .p4 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 185px;
 }
 .p5 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 225px 200px 0px 200px;
 }
 .p6 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 220px;
 }
 .p7 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 200px 250px 0px 250px;
 }
 .p8 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 200px;
 }
 .p9 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 210px 225px 0px 225px;
 }
 .p10 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 200px;
 }
 .p11 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 210px;
 }
 .p12 {
-  font-size: 25px;
+  font-size: 2vw;
   margin: 250px;
 }
 .p13 {
