@@ -88,3 +88,12 @@ h2 {
   font-size: 100px;
   margin: 200px;
 }
+.shape {
+  height: 520px;
+  width: 10px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 20px;
+  left: 20px;
+}
