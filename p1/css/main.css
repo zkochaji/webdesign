@@ -21,13 +21,13 @@ div{
   line-height: 1.6;
   }
 h2 {
-  font-size: 30px;
+  font-size: 2.2vw;
   color: white;
 }
 .title {
   background-color: #212F3C;
   font-family: 'Open Sans', sans-serif;
-  font-size: 50px;
+  font-size: 4vw;
   text-align: center;
   padding: 10px;
   margin: 175px 50px 50px 50px;
@@ -97,6 +97,114 @@ h2 {
   left: 20px;
 }
 .shape1 {
+  height: 10px;
+  width: 80px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape2 {
+  height: 10px;
+  width: 160px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape3 {
+  height: 10px;
+  width: 240px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape4 {
+  height: 10px;
+  width: 320px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape5 {
+  height: 10px;
+  width: 400px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape6 {
+  height: 10px;
+  width: 480px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape7 {
+  height: 10px;
+  width: 560px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape8 {
+  height: 10px;
+  width: 640px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape9 {
+  height: 10px;
+  width: 720px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape10 {
+  height: 10px;
+  width: 800px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape11 {
+  height: 10px;
+  width: 880px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape12 {
+  height: 10px;
+  width: 960px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
+}
+.shape13 {
   height: 10px;
   width: 1040px;
   background-color: #FFA700;
