@@ -96,8 +96,12 @@ h2 {
   top: 20px;
   left: 20px;
 }
-.container {
-  margin: 0;
-  width: 1000px;
-  text-align: center;
+.shape1 {
+  height: 10px;
+  width: 1040px;
+  background-color: #FFA700;
+  position: absolute;
+  margin: 20px;
+  top: 525px;
+  left: 100px;
 }
