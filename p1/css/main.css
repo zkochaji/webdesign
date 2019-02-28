@@ -29,66 +29,66 @@ h2 {
   font-family: 'Open Sans', sans-serif;
   font-size: 4vw;
   text-align: center;
-  padding: 10px;
-  margin: 175px 50px 50px 50px;
+  padding: 5px;
+  margin: 25vh;
 }
 .p1 {
   font-size: 2vw;
   padding: 75px;
-  margin: 150px;
+  margin: 30vh;
 }
 .p2 {
   font-size: 2vw;
   padding: 50px;
-  margin: 150px;
+  margin: 30vh;
 }
 .p3 {
   font-size: 2vw;
-  margin: 180px;
+  margin: 30vh;
   padding: 30px;
 }
 .p4 {
   font-size: 2vw;
-  margin: 175px;
+  margin: 25vh;
 }
 .p5 {
   font-size: 2vw;
-  margin: 225px 200px 0px 200px;
+  margin: 35vh;
 }
 .p6 {
   font-size: 2vw;
-  margin: 220px;
+  margin: 35vh;
 }
 .p7 {
   font-size: 2vw;
-  margin: 200px 250px 0px 250px;
+  margin: 30vh;
 }
 .p8 {
   font-size: 2vw;
-  margin: 180px;
+  margin: 30vh;
 }
 .p9 {
   font-size: 2vw;
-  margin: 210px 225px 0px 225px;
+  margin: 32vh;
 }
 .p10 {
   font-size: 2vw;
-  margin: 200px;
+  margin: 30vh;
 }
 .p11 {
   font-size: 2vw;
-  margin: 210px;
+  margin: 30vh;
 }
 .p12 {
   font-size: 2vw;
-  margin: 240px;
+  margin: 40vh;
 }
 .p13 {
   font-size: 100px;
-  margin: 200px;
+  margin: 37vh;
 }
 .shape {
-  height: 520px;
+  height: 90vh;
   width: 10px;
   background-color: #FFA700;
   position: absolute;
@@ -98,118 +98,118 @@ h2 {
 }
 .shape1 {
   height: 10px;
-  width: 80px;
+  width: calc(85vw/13);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape2 {
   height: 10px;
-  width: 160px;
+  width: calc(85vw/13*2);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape3 {
   height: 10px;
-  width: 240px;
+  width: calc(85vw/13*3);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape4 {
   height: 10px;
-  width: 320px;
+  width: calc(85vw/13*4);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape5 {
   height: 10px;
-  width: 400px;
+  width: calc(85vw/13*5);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape6 {
   height: 10px;
-  width: 480px;
+  width: calc(85vw/13*6);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape7 {
   height: 10px;
-  width: 560px;
+  width: calc(85vw/13*7);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape8 {
   height: 10px;
-  width: 640px;
+  width: calc(85vw/13*8);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape9 {
   height: 10px;
-  width: 720px;
+  width: calc(85vw/13*9);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape10 {
   height: 10px;
-  width: 800px;
+  width: calc(85vw/13*10);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape11 {
   height: 10px;
-  width: 880px;
+  width: calc(85vw/13*11);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape12 {
   height: 10px;
-  width: 960px;
+  width: calc(85vw/13*12);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
 .shape13 {
   height: 10px;
-  width: 1040px;
+  width: calc(85vw/13*13);
   background-color: #FFA700;
   position: absolute;
   margin: 20px;
-  top: 525px;
+  bottom: 35px;
   left: 100px;
 }
