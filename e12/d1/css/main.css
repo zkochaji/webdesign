@@ -1,0 +1,47 @@
+body {
+  background-color: #1A1A1D;
+  font-size: 24px;
+}
+h1 {
+  color: #C3073F;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 4.1em;
+  margin-bottom: -30px;
+  padding: 0px;
+}
+h2 {
+  color: #C3073F;
+  font-family: 'Source Serif Pro', serif;
+  margin-top: 25px;
+  text-align: center;
+  font-size: 2em;
+}
+h3 {
+  color: #950740;
+  font-family: 'Merriweather', serif;
+  font-size: 1.25em;
+  margin: auto;
+}
+#column {
+  color: #F0F0F2;
+  column-count: 3;
+  font-size: .75em;
+  column-gap: 50px;
+  margin-right: 20px;
+}
+#container1 {
+  width: 800px;
+  height: 200px;
+  transform: rotate(-90deg);
+  position: absolute;
+  top: 90px;
+  left: -360px;
+  float: left;
+}
+#container2 {
+  width: 1100px;
+  height: 100%;
+  position: relative;
+  float: left;
+  left: 160px;
+}
