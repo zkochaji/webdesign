@@ -1,0 +1,46 @@
+body {
+  background-color: #4F7084;
+  font-size: 24px;
+}
+h1 {
+  color: #000000;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 4em;
+}
+h2 {
+  color: #000000;
+  font-family: 'Source Serif Pro', serif;
+  margin-top: 25px;
+  font-size: 1em;
+}
+p {
+  color: #FFFFFF;
+  font-size: .75em;
+  margin: auto;
+}
+#container {
+  margin: auto;
+  width: 50%;
+  height: 500px;
+  width: 725px;
+  position: relative;
+}
+#container1 {
+  text-align: left;
+  height: 80px;
+  width: 725px;
+}
+#container2 {
+  text-align: right;
+  width: 725px;
+  height: 50px;
+}
+#container3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+}
+#container4 {
+  height: 1000px;
+}
