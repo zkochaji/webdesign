@@ -28,11 +28,17 @@ h3 {
   left: 0px;
   top: -500px;
 }
-img {
+#image1 {
   width: 30%;
   position: relative;
   top: -335px;
   left: 615px;
+}
+#image2 {
+  width: 45%;
+  position: relative;
+  top: -500px;
+  left: -40px;
 }
 p {
   font-size: .8em;
