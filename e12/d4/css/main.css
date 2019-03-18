@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: none;
+  font-size: 24px;
+}
+h1 {
+  color: #000000;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 5.5em;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+h3 {
+  transform: rotate(-90deg);
+  position: relative;
+  font-size: 1em;
+  left: 0px;
+  top: -500px;
+}
+img {
+  width: 30%;
+  position: relative;
+  top: -335px;
+  left: 615px;
+}
+p {
+  font-size: .8em;
+  line-height: 40px;
+}
+#container {
+  height: 2000px;
+  width: 1000px;
+  margin: auto;
+}
+#container1 {
+  height: 300px;
+  width: 1000px;
+  position: relative;
+}
+#container2 {
+  height: 300px;
+  width: 480px;
+  text-align: center;
+  position: relative;
+}
+#container3 {
+  margin-top: 100px;
+  height: 1000px;
+  width: 480px;
+}
