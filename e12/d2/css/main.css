@@ -46,19 +46,3 @@ p {
   height: 25px;
   width: 500px;
 }
-.shape {
-  position: relative;
-  background-color:  #FFE400;
-  width: 10px;
-  height: 1000px;
-  bottom: 35px;
-  left: 275px;
-}
-.shape1 {
-  position: relative;
-  background-color:  #FFE400;
-  width: 10px;
-  height: 1000px;
-  bottom: 0px;
-  left: 725px;
-}
