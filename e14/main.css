@@ -25,7 +25,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-size: 1.25em;
+  font-size: 1.5em;
   color: #FF5733;
   text-decoration: underline;
 }
@@ -42,13 +42,50 @@ h2 {
     }
   h2 {
     color: #950740;
+    font-size: 2em;
+    }
+}
+@media only screen and (min-width: 1190px) {
+  body {
+    background-color: #FF00B6;
+    }
+  main{
+    width: 35vw;
+    }
+  h1 {
+    color: yellow;
+    }
+  h2 {
+    color: green;
+    font-size: 4em;
+    text-align: center;
+    }
+  p {
+    color: blue;
     }
 }
 @media only screen and (min-width: 1200px) {
   body {
-    background-color: orange;
+    background-color: #222629;
     }
   main{
-    width: 50vw;
+    width: 45vw;
     }
+  h1 {
+    color: #86C232;
+    font-family: 'Fjalla One', sans-serif;
+  }
+  h2 {
+    color: #61892F;
+    text-align: left;
+    font-size: 1.5em;
+    font-family: 'Fjalla One', sans-serif;
+  }
+  p {
+    color: grey;
+  }
+  ul {
+    color: grey;
+    font-family: 'Fjalla One', sans-serif;
+  }
 }
