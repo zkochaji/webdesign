@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: none;
+  font-size: 24px;
+}
+h1 {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+  font-size: 5.5em;
+}
+h2 {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+  font-size: 3.75em;
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+}
+h3 {
+  position: relative;
+  font-size: 1em;
+  left: 0px;
+  float: right;
+  font-family: 'Merriweather', serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 100;
+}
+p {
+  font-size: .8em;
+  line-height: 30px;
+}
+#container1 {
+  height: 2000px;
+  width: 1000px;
+  margin: auto;
+  position: relative;
+}
+#container2 {
+  height: 100px;
+  width: 1000px;
+  margin: auto;
+  position: relative;
+  top: -120px;
+}
+#container3 {
+  height: 100px;
+  width: 1000px;
+  margin: auto;
+  position: relative;
+  top: -200px;
+}
+#container4 {
+  width: 800px;
+  margin: auto;
+  position: relative;
+}
