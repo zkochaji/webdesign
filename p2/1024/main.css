@@ -1,0 +1,18 @@
+body{
+  background-color: #212F3C;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+div{
+  margin: auto;
+  text-align: center;
+}
+p {
+  margin: 40px;
+}
