@@ -1,5 +1,18 @@
-body {
-  background-color: #EAE7DC;
+body{
+  background-color: #212F3C;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
 }
-
-@media only screen and (min-width: 768px);
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+div{
+  margin: auto;
+  text-align: center;
+}
+p {
+  margin: 40px;
+}
