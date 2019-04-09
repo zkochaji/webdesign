@@ -73,21 +73,21 @@
   height: 100%;
 }
 
-  html {
-    margin: 0px;
-    width: 100%;
-    height: 100%;
+html {
+  margin: 0px;
+  width: 100%;
+  height: 100%;
   }
 
-  header {
-    width: 100%;
-    margin: 0px;
-    text-align: center;
+header {
+  width: 100%;
+  margin: 0px;
+  text-align: center;
   }
-  main {
-    width: 90vw;
+main {
+  width: 90vw;
   }
-  .txtcorgihub {
+.txtcorgihub {
   background-color: #EAE7DC;
 	font-size: 30px;
 	font-weight: 900;
@@ -98,23 +98,23 @@
 	width: 100%;
 	text-align: center;
   }
-  .txtmenu {
-    font-size: 20px;
+.txtmenu {
+  font-size: 20px;
 	font-weight: bold;
 	width: 100%;
 	padding: 10px;
   background-color: #D8C3A5;
   }
-  .txtmenuhome {
-    float: left;
+.txtmenuhome {
+  float: left;
   }
-  .txtmenugallery {
-    padding-left: 25%;
+.txtmenugallery {
+  padding-left: 25%;
   }
-  .txtmenurent {
-    float: right;
+.txtmenurent {
+  float: right;
   }
-  .facts {
+.facts {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
@@ -125,53 +125,36 @@
   width: 100%;
 	padding: 75px;
   }
-  .corgimeans {
-    color: #E85A4F;
+.corgimeans {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 25px;
 	text-align: center;
 	background-color:  #EAE7DC;
 	position: relative;
 	top: 235px;
-    width: 100%;
+  width: 100%;
   }
-  .whitespace1 {
+.whitespace1 {
   background-color: #EAE7DC;
   position: relative;
   width: 100%;
   height: 10px;
   }
-  .name {
-    font-weight: bold;
+.name {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .whitespace2 {
+.whitespace2 {
   background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .theycome {
-    color: #E85A4F;
-	font-weight: bold;
-	font-size: 25px;
-	text-align: center;
-	background-color: #EAE7DC;
-	position: relative;
-	top: 235px;
-  width: 100%;
-  }
-  .colors {
-  font-weight: bold;
-	padding: 10%;
-	text-align: left;
-	color: #5E5E5D;
-  background-color: #D8C3A5;
-  }
-  .theyshare {
+.theycome {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 25px;
@@ -181,20 +164,37 @@
 	top: 235px;
   width: 100%;
   }
-  .ancestry  {
+.colors {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .grayspace2 {
+.theyshare {
+  color: #E85A4F;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #EAE7DC;
+	position: relative;
+	top: 235px;
+  width: 100%;
+  }
+.ancestry  {
+  font-weight: bold;
+	padding: 10%;
+	text-align: left;
+	color: #5E5E5D;
+  background-color: #D8C3A5;
+  }
+.whitespace5 {
   background-color:  #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .size {
+.size {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 25px;
@@ -204,20 +204,20 @@
 	top: 235px;
   width: 100%;
   }
-  .grayspace1 {
-    background-color: #EAE7DC;
-    position: relative;
-    width: 100%;
-    height: 20px;
+.whitespace4 {
+  background-color: #EAE7DC;
+  position: relative;
+  width: 100%;
+  height: 20px;
   }
-  .sizetext {
+.sizetext {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .img6redtext {
+.img6redtext {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 25px;
@@ -227,14 +227,14 @@
 	top: 235px;
   width: 100%;
   }
-  .img6text {
+.img6text {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-   .gallery {
+.gallery {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
@@ -325,7 +325,7 @@
   main {
     width: 90vw;
   }
-  .txtcorgihub {
+.txtcorgihub {
   background-color: #EAE7DC;
 	font-size: 50px;
 	font-weight: 900;
@@ -336,23 +336,23 @@
 	width: 100%;
 	text-align: center;
   }
-  .txtmenu {
-    font-size: 25px;
+.txtmenu {
+  font-size: 25px;
 	font-weight: bold;
 	width: 100%;
 	padding: 10px;
   background-color: #D8C3A5;
   }
-  .txtmenuhome {
-    float: left;
+.txtmenuhome {
+  float: left;
   }
-  .txtmenugallery {
-    padding-left: 30%;
+.txtmenugallery {
+  padding-left: 30%;
   }
-  .txtmenurent {
-    float: right;
+.txtmenurent {
+  float: right;
   }
-  .facts {
+.facts {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
@@ -360,127 +360,127 @@
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
-    width: 100%;
+  width: 100%;
 	padding: 75px;
   }
-  .corgimeans {
-    color: #E85A4F;
+.corgimeans {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 275px;
-    width: 100%;
+  width: 100%;
   }
-  .whitespace1 {
+.whitespace1 {
   background-color: #EAE7DC;
   position: relative;
   width: 100%;
   height: 20px;
   }
-  .name {
-    font-weight: bold;
+.name {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .whitespace2 {
-    background-color: #EAE7DC;
+.whitespace2 {
+  background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 60px;
   }
-  .theycome {
-    color: #E85A4F;
+.theycome {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 275px;
-    width: 100%;
+  width: 100%;
   }
-  .colors {
-    font-weight: bold;
+.colors {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .theyshare {
-    color: #E85A4F;
+.theyshare {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 275px;
-    width: 100%;
+  width: 100%;
   }
-  .ancestry  {
-    font-weight: bold;
+.ancestry  {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .grayspace2 {
-    background-color: #EAE7DC;
+.whitespace5 {
+  background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 60px;
   }
-  .size {
-    color: #E85A4F;
+.size {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 275px;
-    width: 100%;
+  width: 100%;
   }
-  .grayspace1 {
+  .whitespace4 {
     background-color: #EAE7DC;
     position: relative;
     width: 100%;
     height: 20px;
   }
-  .sizetext {
-    font-weight: bold;
+.sizetext {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .img6redtext {
-    color: #E85A4F;
+.img6redtext {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 275px;
-    width: 100%;
+  width: 100%;
   }
-  .img6text {
-    font-weight: bold;
+.img6text {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
   background-color: #D8C3A5;
   }
-  .gallery {
-    color: #E85A4F;
+.gallery {
+  color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 30px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
-    width: 100%;
+  width: 100%;
 	padding: 75px;
   }
 
@@ -563,7 +563,7 @@
   main {
     width: 90vw;
   }
-  .txtcorgihub {
+.txtcorgihub {
   background-color: #EAE7DC;
 	font-size: 80px;
 	font-weight: 900;
@@ -574,7 +574,7 @@
 	width: 100%;
 	text-align: center;
   }
-  .txtmenu {
+.txtmenu {
   font-size: 35px;
 	font-weight: bold;
 	width: 90%;
@@ -583,32 +583,32 @@
 	padding: 10px;
   background-color: #D8C3A5;
   }
-  .txtmenuhome {
-    float: left;
+.txtmenuhome {
+  float: left;
   }
-  .txtmenugallery {
-    padding-left: 30%;
+.txtmenugallery {
+  padding-left: 30%;
   }
-  .txtmenurent {
-    float: right;
+.txtmenurent {
+  float: right;
   }
-  .whitespace3 {
+.whitespace3 {
 	background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .facts {
-    color: #E85A4F;
+.facts {
+  color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 65px;
 	text-align: center;
 	position: relative;
-    width: 100%;
+  width: 100%;
 	padding: 75px;
   }
-  .whitebackground {
+.whitebackground {
 	background-color: #EAE7DC;
 	width: 90%;
 	position: relative;
@@ -616,24 +616,24 @@
 	padding-top: 50px;
 	padding-bottom: 10px;
   }
-  .corgimeans {
-    color: #E85A4F;
+.corgimeans {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 380px;
-    width: 100%;
+  width: 100%;
   }
-  .whitespace1 {
+.whitespace1 {
   background-color: #EAE7DC;
   position: relative;
   width: 100%;
   height: 10px;
   }
-  .name {
-    font-weight: bold;
+.name {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
@@ -642,13 +642,13 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .whitespace2 {
+.whitespace2 {
   background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .theycome {
+.theycome {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 40px;
@@ -656,10 +656,10 @@
 	background-color: #EAE7DC;
 	position: relative;
 	top: 380px;
-    width: 100%;
+  width: 100%;
   }
-  .colors {
-    font-weight: bold;
+.colors {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
@@ -668,18 +668,18 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .theyshare {
-    color: #E85A4F;
+.theyshare {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 40px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 380px;
-    width: 100%;
+  width: 100%;
   }
-  .ancestry  {
-    font-weight: bold;
+.ancestry  {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
@@ -688,18 +688,18 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .size {
-    color: #E85A4F;
+.size {
+  color: #E85A4F;
 	font-weight: bold;
 	font-size: 40px;
 	text-align: center;
 	background-color: #EAE7DC;
 	position: relative;
 	top: 415px;
-    width: 100%;
+  width: 100%;
   }
-  .sizetext {
-    font-weight: bold;
+.sizetext {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
@@ -708,7 +708,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .img6redtext {
+.img6redtext {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 30px;
@@ -716,10 +716,10 @@
 	background-color: #EAE7DC;
 	position: relative;
 	top: 420px;
-    width: 100%;
+  width: 100%;
   }
-  .img6text {
-    font-weight: bold;
+.img6text {
+  font-weight: bold;
 	padding: 10%;
 	text-align: left;
 	color: #5E5E5D;
@@ -728,7 +728,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .gallery {
+.gallery {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
@@ -819,7 +819,7 @@
   main {
     width: 90vw;
   }
-  .txtcorgihub {
+.txtcorgihub {
   background-color: #EAE7DC;
 	font-size: 110px;
 	font-weight: 900;
@@ -830,7 +830,7 @@
 	width: 100%;
 	text-align: center;
   }
-  .txtmenu {
+.txtmenu {
   font-size: 40px;
 	font-weight: bold;
 	width: 100%;
@@ -839,22 +839,22 @@
 	padding: 10px;
   background-color: #D8C3A5;
   }
-  .txtmenuhome {
+.txtmenuhome {
   float: left;
   }
-  .txtmenugallery {
+.txtmenugallery {
   padding-left: 35%;
   }
-  .txtmenurent {
+.txtmenurent {
   float: right;
   }
-  .whitespace3 {
+.whitespace3 {
 	background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .facts {
+.facts {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
@@ -864,7 +864,7 @@
   width: 100%;
 	padding: 75px;
   }
-  .whitebackground {
+.whitebackground {
 	background-color: #EAE7DC;
 	width: 90%;
 	position: relative;
@@ -872,7 +872,7 @@
 	padding-top: 75px;
 	padding-bottom: 20px;
   }
-  .corgimeans {
+.corgimeans {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 60px;
@@ -880,15 +880,15 @@
 	background-color: #EAE7DC;
 	position: relative;
 	top: 460px;
-    width: 100%;
+  width: 100%;
   }
-  .whitespace1 {
+.whitespace1 {
   background-color: #EAE7DC;
   position: relative;
   width: 100%;
   height: 10px;
   }
-  .name {
+.name {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
@@ -898,13 +898,13 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .whitespace2 {
+.whitespace2 {
   background-color: #EAE7DC;
 	position: relative;
 	width: 100%;
 	height: 40px;
   }
-  .theycome {
+.theycome {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 55px;
@@ -914,7 +914,7 @@
 	top: 465px;
   width: 100%;
   }
-  .colors {
+.colors {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
@@ -924,7 +924,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .theyshare {
+.theyshare {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 55px;
@@ -934,7 +934,7 @@
 	top: 465px;
   width: 100%;
   }
-  .ancestry  {
+.ancestry  {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
@@ -944,7 +944,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .size {
+.size {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 55px;
@@ -954,7 +954,7 @@
 	top: 490px;
   width: 100%;
   }
-  .sizetext {
+.sizetext {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
@@ -964,7 +964,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .img6redtext {
+.img6redtext {
   color: #E85A4F;
 	font-weight: bold;
 	font-size: 35px;
@@ -974,7 +974,7 @@
 	top: 500px;
   width: 100%;
   }
-  .img6text {
+.img6text {
   font-weight: bold;
 	padding: 10%;
 	text-align: left;
@@ -984,7 +984,7 @@
 	margin-right: 15%;
 	background-color: #D8C3A5;
   }
-  .gallery {
+.gallery {
   color: #E85A4F;
 	font-weight: bold;
 	text-decoration: underline;
