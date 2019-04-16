@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+body {
+  background-color: #222629;
+  margin: auto;
+  height:400px;
+  width: 100%;
+  background-image: url('1.png');
+  background-position: center;
+  background-repeat: repeat;
+  background-size: contain;
+  font-size: 16px;
+  }
+  #container {
+   text-align: center;
+  }
+#button {
+    background-color: #FFC300;
+    border: 2.5px solid black;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    cursor: pointer;
+    margin-top: 300px;
+    padding: 15px;
+    border-radius: 10%;
+    transition-duration: .5s;
+  }
+#button:hover {
+    color: white;
+    box-shadow: 0 12px 16px 0  #FFC300,0 17px 50px 0  #FFC300;
+  }
