@@ -17,37 +17,39 @@ body {
    text-align: center;
   }
 #button {
-    background-color: #FFC300;
+    background-color: #ED1B24;
     border: 2.5px solid black;
     color: black;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
-    display: inline-block;
     font-size: 2em;
     cursor: pointer;
-    margin-top: 300px;
     padding: 15px;
     border-radius: 10%;
     transition-duration: .5s;
+    outline: none;
   }
 #button:hover {
     color: white;
-    box-shadow: 0 12px 16px 0  #FFC300,0 17px 50px 0  #FFC300;
+    box-shadow: 0 12px 16px 0  #ED1B24,0 17px 50px 0  #ED1B24;
+    outline: none;
   }
-
+  #container1 {
+    width: 400px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 li {
   display: none;
 }
-#containter1 {
-  width: 400px;
-}
 img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
-  width: 50%;
+  width: 75%;
   border-radius: 10%
 }
