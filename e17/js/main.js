@@ -22,23 +22,23 @@ function carGuess() {
     var stripped = carArray[randomNumber].toLowerCase();
     console.log(carArray[randomNumber]);
     console.log(stripped);
-    $('#image').css('background-color', carArray[randomNumber]);
-    $('#submit').click(function() {
+    $("#img"+ randomNumber).css("display", "block");
+    $('#answer').click(function() {
         var input = $('input').val();
         var guess = input.toLowerCase();
         console.log(guess);
         if (guess == stripped || guess == carArray[randomNumber]) {
-            $('h1').text(guess + ' is right!');
+            $('h1').text(guess + ' is right! :D');
             $('input').val('');
-            $('.button p').text('Play Again?');
-            $('#submit').click(function() {
-                location.reload(true);
+            $('.button p').text('Play Again? :D');
+            $('#answer').click(function() {
+            location.reload(true);
             });
         } else  {
-            $('h1').text(guess + ' is wrong');
+            $('h1').text(guess + ' is not right :(');
             $('input').val('');
-            $('.button p').text('Play Again?');
-            $('#submit').click(function() {
+            $('.button p').text('Play Again? :D');
+            $('#answer').click(function() {
                 location.reload(true);
             });
         }
