@@ -61,3 +61,6 @@ img {
   object-fit: contain;
   display: block;
 }
+ul {
+  padding: 0;
+}
