@@ -14,7 +14,17 @@ div{
   text-align: center;
 }
 p {
-  margin: 10px;
-  color: white
+  margin: 40px;
 }
- 
+.px320 {
+  max-width: 320px;
+}
+.px768 {
+  max-width: 768px;
+}
+.px1024 {
+  max-width: 1024px;
+}
+.px1440 {
+  max-width: 1440px;
+}
